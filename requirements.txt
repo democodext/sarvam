@@ -2,3 +2,6 @@ sarvamai>=0.1.34
 pydantic>=2.0.0
 pytest>=8.0.0
 flask>=3.0.0
+requests>=2.28.0
+pillow>=10.0.0
+gunicorn>=21.0.0
